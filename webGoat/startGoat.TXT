@@ -1,0 +1,2 @@
+java -jar webgoat-server-8.0.0.M21.jar [--server.port=8080] [--server.address=localhost]
+java -jar webwolf-8.0.0.M21.jar [--server.port=9090] [--server.address=localhost]
